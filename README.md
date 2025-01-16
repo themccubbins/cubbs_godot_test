@@ -1,2 +1,1 @@
-# cubbs_godot_test
-cubbs_godot_test
+Repo for first Godot project
